@@ -69,6 +69,11 @@ For the blind version, only the first column is given.
 
 The output file (`out.tsv`) should be a number.
 
+## Video instruction
+
+[![Video instruction](http://img.youtube.com/vi/FH1avnCrrGg/0.jpg)](http://www.youtube.com/watch?v=FH1avnCrrGg "Video instruction")
+
+
 ## Sources:
 
 [1] Han, A. L. F., Wong, D. F., & Chao, L. S. (2016). Machine translation evaluation: A survey. arXiv preprint arXiv:1605.04515.
