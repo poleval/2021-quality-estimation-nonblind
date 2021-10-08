@@ -73,6 +73,11 @@ The output file (`out.tsv`) should be a number.
 
 [![Video instruction](http://img.youtube.com/vi/FH1avnCrrGg/0.jpg)](http://www.youtube.com/watch?v=FH1avnCrrGg "Video instruction")
 
+## Challenge stage
+
+The competition was finalized in September 2021. Now the challenge is
+in the after-competition stage. You can submit solutions, but they
+will be marked with a different color.
 
 ## Sources:
 
